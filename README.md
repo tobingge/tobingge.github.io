@@ -1,2 +1,1 @@
-# tobingge.github.io
 bean
